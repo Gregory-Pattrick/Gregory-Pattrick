@@ -1,9 +1,6 @@
 ### Hi! I'm Gregory Patrick 👋
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gregory-Patrick&show_icons=true&theme=synthwave)
-
 #### My stack is: 
 
 <div style="display: inline_block"><br/>
