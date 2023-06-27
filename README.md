@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playball&size=40&pause=1000&color=A4A799&center=true&vCenter=true&width=1000&lines=Hey+my+name+is+Gregory+Patrick!;from+Brazil!+;and+I'm+a+backend+developer!;Be+Welcome!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gregory-Patrick&bg_color=000000&color=828282&line=4a4a4a&point=8f8f8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=Gregory-Patrick&bg_color=000000&color=828282&line=4a4a4a&point=8f8f8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gregory-Patrick&show_icons=true&count_private=true&hide_border=true&title_color=A4A799&icon_color=A4A799&text_color=A4A799&bg_color=0d1117" alt="Gregory Patrick github stats" />
